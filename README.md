@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m a Backend Developer 👋<br><br>I’m a 19-year-old Backend Developer from Iran 🇮🇷 and an IT student with a strong passion for software development.<br><br>I mainly work with PHP and Laravel, and I’m focused on building clean, scalable, and maintainable backend applications. I’m continuously improving my development skills while balancing university studies with professional programming.<br><br>👨‍💻 About Me<br><br>* 🎓 IT Student<br>* 💻 Backend Developer<br>* 🚀 Focused on PHP & Laravel<br>* 🌱 Continuously learning and improving my software development skills<br>* 🔧 Interested in building scalable and well-structured applications<br>* 🎯 Currently focused on university and becoming a professional developer<br><br>🛠️ Tech Stack<br><br>Languages & Frameworks<br><br>* PHP<br>* Laravel<br>* JavaScript<br><br>Tools & Technologies<br><br>* Git<br>* GitHub<br>* npm<br>* REST APIs<br>* MySQL<br>* Linux<br><br>📚 Currently Learning<br><br>I’m currently focusing on improving my knowledge of:<br><br>* Advanced Laravel development<br>* Backend architecture<br>* Clean Code & Design Patterns<br>* RESTful APIs<br>* Database design & optimization<br>* Software development best practices<br><br>🎯 My Goal<br><br>My goal is to become a professional Backend Developer, build high-quality software, contribute to meaningful projects, and continuously grow as a developer.<br><br>Code. Learn. Build. Improve. 🚀
 
-<!--
-**mahdiroudaki/mahdiroudaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi.roudaki) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahdiroudaki&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mahdiroudaki&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahdiroudaki&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahdiroudaki&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
